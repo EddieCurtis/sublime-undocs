@@ -13,12 +13,13 @@ deletion. You can find these under **Tools | Macros** or in
 How to Record Macros
 ********************
 
-To start recording a macro, press :kbd:`Ctrl+q` and subsequently execute the
-desired steps one by one. When you're done, press :kbd:`Ctrl+q` again to stop
-the macro recorder. Your new macro won't be saved to a file, but kept in the
-macro buffer instead. You will now be able to run the recorded macro by
-pressing :kbd:`Ctrl+Shift+q` or save it to a file by selecting
-**Tools | Save macro…**.
+To start recording a macro, press :kbd:`Ctrl+q` (:kbd:`Ctrl+Alt+q` on Linux)
+and subsequently execute the desired steps one by one. When you're done, press
+:kbd:`Ctrl+q` (:kbd:`Ctrl+Alt+q`) again to stop the macro recorder. Your new
+macro won't be saved to a file, but kept in the macro buffer instead. Now you
+will be able to run the recorded macro by pressing :kbd:`Ctrl+Shift+q`
+(:kbd:`Ctrl+Shift+Alt+q`) , or save it to a file by selecting**Tools | Save
+macro...**
 
 Note that the macro buffer will only remember the macro recorded latest. Also,
 recorded macros only capture commands sent to the buffer: window level
